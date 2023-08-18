@@ -5,10 +5,10 @@ This repository contains a Python web-based application with the following featu
 
 ## Features
 
-###Login: Users can log in to their accounts using their credentials.
-###Signup Option: New users can create an account by signing up with their information.
-###Minimal Design: The application is designed with a clean and minimalistic user interface for easy navigation.
-###Create Your Event: Users can create their own events and manage event-related information.
+- Users can log in to their accounts using their credentials.
+- New users can create an account by signing up with their information.
+- Minimal Design: The application is designed with a clean and minimalistic user interface for easy navigation.
+- Create Your Event: Users can create their own events and manage event-related information.
 
 ## Getting Started
 Follow these steps to set up and run the web application on your local machine.
