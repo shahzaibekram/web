@@ -9,9 +9,6 @@ Follow these steps to set up and run the web application on your local machine.
 ## Prerequisites
 Make sure you have Docker installed on your system. If not, you can download and install it from the official Docker website.
 
-## Installation
-Make sure you have Docker installed on your system. If not, you can download and install it from the official Docker website.
-
 ## Running the Web Application Locally
 **TODO LIST:**
 
